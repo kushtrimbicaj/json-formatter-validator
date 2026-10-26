@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="JSON braces icon">
+  <rect x="1" y="1" width="30" height="30" rx="7" fill="#1a1b1f" stroke="#33353d"/>
+  <g fill="none" stroke="#4d8dff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M13 8.5c-2.4 0-3 1-3 3v2.2c0 1.4-.8 2.3-2.2 2.3 1.4 0 2.2.9 2.2 2.3v2.2c0 2 .6 3 3 3"/>
+    <path d="M19 8.5c2.4 0 3 1 3 3v2.2c0 1.4.8 2.3 2.2 2.3-1.4 0-2.2.9-2.2 2.3v2.2c0 2-.6 3-3 3"/>
+  </g>
+</svg>
