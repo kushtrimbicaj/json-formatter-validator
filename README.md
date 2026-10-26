@@ -2,10 +2,6 @@
 
 A fast, private JSON utility that runs entirely in your browser. Paste JSON, then format, validate, or minify it. No build step, no dependencies, no server.
 
-![Screenshot placeholder](assets/screenshot.png)
-
-> Add a screenshot at `assets/screenshot.png`, or update the path above.
-
 ## Features
 
 - **Validate** JSON with the native `JSON.parse()`, including non-object roots (arrays, strings, numbers, booleans, and `null`).
